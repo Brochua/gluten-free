@@ -1,0 +1,16 @@
+.restaurant {    
+    display: flex;
+    gap: 2em;
+    justify-content: space-evenly;
+
+    border: 2px solid black;
+    border-radius: 2em;
+}
+
+.restaurant .left-side {
+    flex: 3;
+}
+
+.restaurant .right-side {
+    flex: 1;
+}

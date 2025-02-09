@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Le Marquis Sans Gluten",
+    "notes": "100% gluten-free bakery known for croissants, bagels, breads, tarts, and pastries, with online ordering available.",
+    "type": ["bakery"],
+    "cuisine": ["french"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  },
+  {
+    "name": "Cantine Panella Sans Gluten",
+    "notes": "Fully gluten-free bakery and restaurant in Petite-Patrie offering lasagna, noodle dishes, sandwiches, cakes, pastries, and more. Certified safe for celiacs.",
+    "type": ["bakery", "restaurant"],
+    "cuisine": ["italian"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  },
+  {
+    "name": "L'Artisan Délices Sans Gluten et Sans Lait",
+    "notes": "100% gluten-free and dairy-free bakery with pastries, patisserie, quiches, turnovers, pizzas, and breads. Frozen products available.",
+    "type": ["bakery"],
+    "cuisine": ["french"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  },
+  {
+    "name": "Parc Sans Gluten",
+    "notes": "100% gluten-free bakery near Parc Lafontaine offering tarts, eclairs, croissants, and bread.",
+    "type": ["bakery"],
+    "cuisine": ["french"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  },
+  {
+    "name": "Cookie Stephanie",
+    "notes": "Gluten-free bakery specializing in breads, cupcakes, and cookies.",
+    "type": ["bakery"],
+    "cuisine": ["desserts"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  },
+  {
+    "name": "Doughnats",
+    "notes": "Gluten-free donuts confirmed safe for celiacs.",
+    "type": ["bakery"],
+    "cuisine": ["desserts"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  },
+  {
+    "name": "La Brunelle",
+    "notes": "BYOB restaurant willing to adjust meals for celiac needs.",
+    "type": ["restaurant"],
+    "cuisine": ["french"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  },
+  {
+    "name": "Audacieuse Vanille",
+    "notes": "Gluten-free bakery in Verdun, temporarily closed but planning to reopen.",
+    "type": ["bakery"],
+    "cuisine": ["desserts"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  },
+  {
+    "name": "Vegateau",
+    "notes": "100% vegan and gluten-free bakery with cupcakes, cakes, tarts, cookies, and ice cream.",
+    "type": ["bakery"],
+    "cuisine": ["desserts"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  },
+  {
+    "name": "Susie Sans Gluten",
+    "notes": "West Island gluten-free bakery with cakes and packaged gluten-free products, including pastas and crackers.",
+    "type": ["bakery"],
+    "cuisine": ["varied"],
+    "coordinates": [0.0, 0.0],
+    "area": ""
+  }
+]
