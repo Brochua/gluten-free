@@ -1,0 +1,16 @@
+{
+  "name": "data-completer",
+  "version": "1.0.0",
+  "main": "completer.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node completer.js"
+  },
+  "author": "Axel Brochu",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
