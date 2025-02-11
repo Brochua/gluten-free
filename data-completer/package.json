@@ -9,5 +9,8 @@
   },
   "author": "Axel Brochu",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
