@@ -3,6 +3,8 @@ import Restaurant from "./Restaurant";
 import { IRestaurant } from "../utils";
 import '../styles/RestaurantList.css';
 
+import RestaurantMap from "./RestaurantMap";
+
 export default function RestaurantList() {
     const [restaurants, setRestaurants] = useState<IRestaurant[]>([]);
 
@@ -19,7 +21,9 @@ export default function RestaurantList() {
 
     const restaurantElems = restaurants.map((restaurant, i) => <Restaurant name={restaurant.name} notes={restaurant.notes} type={restaurant.type} cuisine={restaurant.cuisine} key={`restaurant-${i}`} />);
 
-    return <div className="restaurant-list">
-        {restaurantElems}
-    </div>
+    return <RestaurantMap restaurants={restaurants} />
+
+    // return <div className="restaurant-list">
+    //     {restaurantElems}
+    // </div>
 }
